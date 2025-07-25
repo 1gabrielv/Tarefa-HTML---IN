@@ -10,7 +10,7 @@ O projeto foi criado como parte do processo seletivo da **IN Junior**, com o int
 
 - **Aramis Luiza Cunha** - [Página pessoal](AnaLuiza/pagina-individual.html)
 - **Athos Mota** - [Página pessoal](Arthur/pages/paginaPessoalArthur.html)
-- **D'Artagnel Vieira** - [Página pessoal](Gabriel Vieira/Pagina Individual GV.html)
+- **D'Artagnel Vieira** - [Página pessoal](GabrielVieira/PaginaIndividualGV.html)
 
 ## 🌐 Funcionalidades
 
