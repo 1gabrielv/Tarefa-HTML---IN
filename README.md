@@ -8,9 +8,9 @@ O projeto foi criado como parte do processo seletivo da **IN Junior**, com o int
 
 ## 👥 Integrantes
 
-- **Aramis Luiza Cunha** - [Página pessoal](AnaLuiza/pagina-individual.html)
-- **Athos Mota** - [Página pessoal](Arthur/pages/paginaPessoalArthur.html)
-- **D'Artagnel Vieira** - [Página pessoal](Gabriel_Vieira/PaginaIndividual_GV.html)
+- **Ana Luiza Cunha**
+- **Arthur Mota** 
+- **Gabriel Vieira**
 
 ## 🌐 Funcionalidades
 
